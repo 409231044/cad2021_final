@@ -1,6 +1,16 @@
 <h3>40923104</h3>
-<p>劃出四連趕第一題,目前還在使用<span>coppeliasim使他能運動</span></p>
+<h2><span>四連桿機構</span></h2>
+<p>劃出四連桿第一題,目前還在使用<span>coppeliasim使他能運動</span></p>
 <p><a href="https://youtu.be/l83oWrWos5s">https://youtu.be/l83oWrWos5s</a></p>
 <p></p>
-<p>零件雲端檔:https://drive.google.com/drive/folders/1rg78LndUox4KpDM3ChPoUVLmBLAtY7aQ?usp=sharing<a href="https://drive.google.com/drive/folders/1rg78LndUox4KpDM3ChPoUVLmBLAtY7aQ?usp=sharing">https://drive.google.com/drive/folders/1rg78LndUox4KpDM3ChPoUVLmBLAtY7aQ?usp=sharing</a></p>
+<p>零件雲端檔:<a href="https://drive.google.com/drive/folders/1rg78LndUox4KpDM3ChPoUVLmBLAtY7aQ?usp=sharing">https://drive.google.com/drive/folders/1rg78LndUox4KpDM3ChPoUVLmBLAtY7aQ?usp=sharing</a></p>
 <p><span><img alt="" height="274" src="/images/SolidWorks 教育版 - 僅供教學使用 2022_1_9 下午 04_12_07.png" width="511"></span></p>
+<h2><span>meArm Robot&nbsp;</span></h2>
+<p>課程進度:</p>
+<p>因為電腦程式問題所以這次的作業零件沒有畫完,後來找到問題點後在課堂上重新開始畫,今天回家會再把進度補齊</p>
+<p>目前畫了23個零件,齒輪的部分還在摸索</p>
+<p>現在在製作wink影片</p>
+<p>但wink匯出影片有問題,還在測試</p>
+<p>零件雲端<a href="https://drive.google.com/drive/u/1/folders/1BsJr-rczK604YfnxWP48bBBRSCWmqRMd">:https://drive.google.com/drive/u/1/folders/1BsJr-rczK604YfnxWP48bBBRSCWmqRMd</a></p>
+<p><img alt="" src="/images/Wink - [未命名-1 __] 2021_12_20 上午 11_00_04.png"></p>
+<p><img alt="" height="272" src="/images/SolidWorks 教育版 - 僅供教學使用 - [組合件1.SLDASM _] 2022_1_17 下午 09_42_42.png" width="507"></p>
